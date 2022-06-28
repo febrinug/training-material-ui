@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.49",
+    "@material-ui/pickers": "3.2.10",
+    "classnames": "2.2.6",
     "next": "12.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
